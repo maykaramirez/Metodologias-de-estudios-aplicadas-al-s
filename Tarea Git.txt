@@ -1,0 +1,14 @@
+﻿Datos Personales
+Nombre: Mayka A. Ramírez
+Nac.: 25/06/86
+Mail: maykaramirezsw@gmail.com
+Domicilio: Capilla del Monte
+ 
+En lo que refiere a la instancia de ingreso a la carrera, la estoy transitando con mucho entusiasmo y ganas de aprender;  viniendo de Humanidades y Bellas Artes, éste es  un mundo totalmente nuevo para mí así que estoy con un poco de miedo a lo desconocido pero dispuesta a aprovechar  al máximo los espacios curriculares.
+Recién asistí a una clase, con el Profe Pablo (muy bueno en transmitir conocimientos), que estuvo muy bien y me dio un poco más de tranquilidad empezar a comprender algunos conceptos, y saber que los docentes están disponibles para cualquier duda, etc.
+ Como me anoté a la carrera en la fecha límite, por lo cual no pude realizar el taller Ser Técnico; me está resultando un poco abrumador el material, respecto a lenguaje técnico y conceptos para mí poco familiares.
+- Habilidades utilizadas: comprensión; aprendizaje; motivación.
+- Comandos utilizados:
+Add
+Commit
+Push
