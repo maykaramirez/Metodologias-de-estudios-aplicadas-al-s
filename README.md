@@ -1,1 +1,0 @@
-# Metodologias-de-estudios-aplicadas-al-s
